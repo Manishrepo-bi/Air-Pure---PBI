@@ -49,9 +49,7 @@ This project focuses on helping businesses:
 
 ## 🔗 Explore the Project
 - Power BI - https://app.powerbi.com/view?r=eyJrIjoiZWQ4ZDVjNjItMGY2NC00NWI4LTg2ZjctMGE1NTgwYzhiYzgwIiwidCI6Ijg0MmU0ZTBlLTFjNjMtNDE0Ny1iNWJjLTJiOGJhZWQyZjk5OCJ9
-- Behance -  https://www.behance.net/gallery/231745875/AirPure-Innovations-Dashboard-Case-Study
-- Linkedin - https://www.linkedin.com/in/prateeksethi24/
-- Website -  https://prateeksethi.netlify.app/
+
 
 ---
 
